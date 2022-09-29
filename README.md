@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on building technical capabilities in Data Science 
-- 🌱 I’m currently learning data analysis on Coursera
-- 👯 I’m looking to collaborate on anything data analysis and bioinformatics
+- 🌱 I have just concluded the Google data analytics course on Cousera and about concluding the data analytics nanodegree program on Udacity and a master's degree in view in Pharmaceutical microbiology from the University of Ibadan, Nigeria
+- 👯 I’m looking to collaborate on anything data science, data analysis and bioinformatics
 - 🤔 I’m looking for help with building necessary technical skills
 - 💬 Ask me about my journey
-- 📫 How to reach me: https://twitter.com/JustinBalogun
-- ⚡ Fun fact: I am just as hardworking as Nara Shikamaru.
+- 📫 How to reach me: balojustin10@gmail.com
+- ⚡ Fun fact: I enjoy a love-hate relationship with programming.
